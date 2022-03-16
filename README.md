@@ -1,1 +1,1 @@
-# javasript-practice
+# javascript-practice
